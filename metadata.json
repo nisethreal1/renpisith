@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SAMS - School Attendance Management System",
+  "description": "A comprehensive school attendance tracker with Teacher and Student roles, featuring CRUD for students/classes, attendance marking, permission workflows, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
